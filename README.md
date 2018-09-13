@@ -1,5 +1,5 @@
 # node-mysql
-node.js mysql 文档
+# node.js mysql 文档
 // 加载mysql模块
 var mysql = require('mysql');
 // 错误处理
